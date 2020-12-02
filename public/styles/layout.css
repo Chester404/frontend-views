@@ -64,13 +64,20 @@
     height: 630px;
     width: 450px;
     background-color:#E3B807;
-    margin: auto;
     margin-top:30px;
     margin-bottom: 30px;
+    
 }
 .innerCatalog {
     background-color:#DEDFE1 ;
     height: 100px;
     width: 100px;
-    margin-left: 20px;
+    float: right;
+    margin-right: 20px;
+}
+.catalogdata{
+    background-color: #DEDFE1;
+    margin-top: 130px;
+    width: 225px;
+    height: 350px;
 }
