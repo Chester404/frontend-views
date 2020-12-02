@@ -1,0 +1,58 @@
+.mainLayout {
+     background-color:#F5F5F5;
+     /* width: 1000px;
+     height: 500px; */
+      
+}
+
+.loginContainer1 {
+    background-color: #F5F5F5;
+    display: flex;
+    flex-direction: row;
+    
+}
+.innercard1 {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    margin-left: 15%;
+}
+.login1 {
+    /* height: 250px; */
+    /* width: 550px;  */
+    /* margin-top: 30px;
+    margin-bottom: 30px;     */
+    border: 1px solid#DFDFDF;
+    width: 25rem;
+    margin: auto;
+}
+.logincard1 {
+    margin-top: 170px;
+    /* margin-bottom: 170px; */
+    vertical-align: middle;
+}
+.logo1 {
+   margin-left: 20%;
+   margin-bottom: 30px;
+}
+.form-control {
+    width: 50% !important;
+}
+.buttons1 {
+    background-color:#BF3100;
+    border-color:#bf3100;
+    font-weight: bold;
+    border-radius: 0;
+
+}
+.buttons1:hover{
+    background-color:#C24641;
+    border-color: #774641;
+    border-radius: 5px;
+}
+.forgotpaswrd1 {
+    color: #A0A0A0;
+}
+.loginlogo2 {
+    margin-top: 520px;
+}

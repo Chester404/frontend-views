@@ -1,0 +1,76 @@
+.mainLayout {
+     background-color:#F5F5F5;
+     /* width: 1000px;
+     height: 500px; */
+      
+}
+
+.loginContainer {
+    background-color: #F5F5F5;
+    display: flex;
+    
+    height: 100%;
+    
+}
+.innercard {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    margin-left: 15%;
+}
+.login{
+    height: 250px;
+    width: 550px; 
+    margin-top: 30px;
+    margin-bottom: 30px;    
+}
+.logincard{
+    margin-top: 170px;
+    margin-bottom: 170px;
+    
+}
+.logo1 {
+   margin-left: 20%;
+   margin-bottom: 30px;
+}
+.form-control {
+    width: 50% !important;
+}
+.buttons{
+    background-color:#BF3100;
+    border-color:#bf3100;
+    font-weight: bold;
+    border-radius: 0;
+
+}
+.buttons:hover{
+    background-color:#C24641;
+    border-color: #774641;
+    border-radius: 5px;
+}
+.forgotpaswrd {
+    color: #A0A0A0;
+}
+.loginlogo2 {
+    margin-top: 520px;
+}
+
+/*Style for index page*/
+.index_background {
+    /* background-color: #ECEDEF; */
+    height: max-content;
+}
+.catalog_background {
+    height: 630px;
+    width: 450px;
+    background-color:#E3B807;
+    margin: auto;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+.innerCatalog {
+    background-color:#DEDFE1 ;
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+}

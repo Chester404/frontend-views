@@ -1,0 +1,12 @@
+.profile-card {
+    flex-direction: row;
+}
+.card-img {
+    width: 150px;
+    height: 150px;
+}
+.userimg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
