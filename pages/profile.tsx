@@ -26,10 +26,3 @@ export default function profile() {
     </Layout>
   );
 }
-
-/*
-        <div className="info col-md-6">
-        
-        </div>              
-        <div className="card-body"></div>
-*/

@@ -59,14 +59,13 @@
 .index_background {
     /* background-color: #ECEDEF; */
     height: max-content;
+    
 }
 .catalog_background {
-    height: 630px;
+    height: 600px;
     width: 450px;
     background-color:#E3B807;
-    margin-top:30px;
-    margin-bottom: 30px;
-    
+    margin: auto;    
 }
 .innerCatalog {
     background-color:#DEDFE1 ;
@@ -75,9 +74,34 @@
     float: right;
     margin-right: 20px;
 }
+.catalogdata_row{
+    padding-top: 200px;
+}
 .catalogdata{
     background-color: #DEDFE1;
-    margin-top: 130px;
-    width: 225px;
+    width: 250px;
     height: 350px;
+}
+.catalogTitle_txt{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: xx-large;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    line-height: 1;
+    
+}
+.catalogYear_txt{
+    font-size: 30px;
+    color: #6A6B6D;
+}
+.catalogauthor_txt{
+    font-size: x-small;
+    margin-top: 70px;
+    color: #6A6B6D;
+    font-weight: bold;
+}
+.catalog_txt{
+    color: #6A6B6D;
+    font-size: small;
+    margin-top: 10px;
 }
